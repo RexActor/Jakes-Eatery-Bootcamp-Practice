@@ -2,7 +2,7 @@
 
 ## Deployement
 
-![Deployed Site](https://rexactor.github.io/Jakes-Eatery-Bootcamp-Practice/)
+Here is running application [Deployed Application](https://rexactor.github.io/Jakes-Eatery-Bootcamp-Practice/)
 
 
 ## Resources
